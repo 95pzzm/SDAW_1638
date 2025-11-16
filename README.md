@@ -73,7 +73,7 @@ git restore -- <fichero>
 git revert <hash_commit>
 ```
 
-## 5) Información técnica añadida desde rama 1
+## 5) Información técnica añadida desde rama 1 explicado con mis palabras
 En esta sección se describen los principales comandos de Git utilizados durante la práctica:
 - `git init`: Inicializa un nuevo repositorio Git en la carpeta actual.
 - `git add`: Añade archivos al área de preparación (staging) para el próximo commit.
