@@ -1,0 +1,20 @@
+{
+  "name": "sdaw_1638",
+  "version": "1.0.0",
+  "description": "Pequeña app web para la práctica 'Uso de repositorios digitales (Git)'",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "git",
+    "github",
+    "express",
+    "node"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
