@@ -42,7 +42,7 @@ npm start
 
 # ---- GIT ----
 git init
-git config user.name "pablo"
+git config user.name "9pzzm"
 git config user.email "pablozzgm2003@gmail.com"
 git config --list
 
@@ -53,18 +53,18 @@ git commit -m "Primer commit: estructura base"
 # Crear el repositorio remoto en GitHub (público) llamado SDAW_1638
 # Luego enlazarlo (ejemplo con HTTPS)
 git branch -M main
-git remote add origin https://github.com/TU_USUARIO/SDAW_1638.git
+git remote add origin https://github.com/9pzzm/SDAW_1638.git
 git push -u origin main
 
 # Trabajar con ramas
-git checkout -b rama1_NombreApellido1Estudiante
+git checkout -b rama1_PabloGarcia1Estudiante
 # ... cambios y commit ...
-git push -u origin rama1_NombreApellido1Estudiante
+git push -u origin rama1_PabloGarcia1Estudiante
 
 git checkout main
-git checkout -b rama2_NombreApellido1Estudiante
+git checkout -b rama2_PabloGarcia1Estudiante
 # ... cambios y commit ...
-git push -u origin rama2_NombreApellido1Estudiante
+git push -u origin rama2_PabloGarcia1Estudiante
 
 # Consultas y restauración
 git log --oneline
