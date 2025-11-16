@@ -83,7 +83,7 @@ En esta sección se describen los principales comandos de Git utilizados durante
 - `git push`: Envía commits locales al repositorio remoto.
 
 ## 6) Información técnica añadida desde rama 2
-(Copia aquí el resultado de `git log --oneline` en el formato adecuado).
+6002a53 (HEAD -> rama2_PabloGarcia1Estudiante, origin/main, main) Primer commit: estructura base
 
 ## 7) Pull requests e integración
 1. Sube las ramas 1 y 2 a GitHub.
