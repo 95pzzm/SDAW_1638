@@ -42,7 +42,7 @@ npm start
 
 # ---- GIT ----
 git init
-git config user.name "9pzzm"
+git config user.name "95pzzm"
 git config user.email "pablozzgm2003@gmail.com"
 git config --list
 
@@ -107,4 +107,3 @@ En esta sección se describen los principales comandos de Git utilizados durante
 
 ## 10) Licencia
 MIT
-hjnmkl,}
