@@ -105,5 +105,31 @@ En esta sección se describen los principales comandos de Git utilizados durante
 > **Información técnica añadida desde rama 1** (explicando git init/add/commit/branch/merge/push) y  
 > **Información técnica añadida desde rama 2** (pegando `git log --oneline`).
 
+## Información técnica añadida desde rama 3
+
+A continuación se muestra la salida del comando `git log --oneline --graph --all`:
+
+git log --oneline --graph --all
+* f91c8ea (origin/rama3_PabloGarciaEstudiante, gitlab/rama3_PabloGarciaEstudiante, rama3_PabloGarciaEstudiante) Rama 3: reflexión y log en formato gráfico (--graph --all)
+* 2c6399c (HEAD -> main, origin/rama3_PabloGarcia1Estudiante, gitlab/rama4_PabloGarciaEstudiante, gitlab/rama3_PabloGarcia1Estudiante, gitlab/main, gitlab/HEAD, rama4_PabloGarciaEstudiante, rama3_PabloGarcia1Estudiante) Fix git config username in README
+* e7cf9be Change user name and branch names in README
+* 10fa825 Rama 2: agrega git log --oneline
+* 8c93853 Rama 1: añade info técnica (init/add/commit/branch/merge/push)
+* 865b6b5 Primer commit: estructura base
+* e836e8f Eliminar README.md
+* a120f08 Initial commit
+* a6f1e41 (origin/main) Fix git config username in README
+* af9f18e Change user name and branch names in README
+*   5e21b37 Merge pull request #2 from 95pzzm/rama2_PabloGarcia1Estudiante
+|\
+| * 94873a3 (origin/rama2_PabloGarcia1Estudiante, gitlab/rama2_PabloGarcia1Estudiante, rama2_PabloGarcia1Estudiante) Rama 2: agrega git log --oneline
+* |   0a56479 Merge pull request #1 from 95pzzm/rama1_PabloGarcia1Estudiante
+|\ \
+| |/
+|/|
+| * aaf321d (origin/rama1_PabloGarcia1Estudiante, gitlab/rama1_PabloGarcia1Estudiante, rama1_PabloGarcia1Estudiante) Rama 1: añade info técnica (init/add/commit/branch/merge/push)
+|/
+* 6002a53 Primer commit: estructura base
+
 ## 10) Licencia
 MIT
