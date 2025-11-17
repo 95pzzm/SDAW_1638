@@ -131,5 +131,12 @@ git log --oneline --graph --all
 |/
 * 6002a53 Primer commit: estructura base
 
+## Información técnica añadida desde rama 4
+
+En esta rama se incluye un resumen de los pasos necesarios para conectar un
+repositorio local con un remoto en GitLab, manteniendo al mismo tiempo el remoto
+original de GitHub.
+
+
 ## 10) Licencia
 MIT
